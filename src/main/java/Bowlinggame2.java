@@ -1,4 +1,7 @@
 public class Bowlinggame2 {
 
-    public void lisatest4(){}
+
+public void lisatest4(){
+
+}
 }
